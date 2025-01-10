@@ -23,3 +23,4 @@ To run this platform locally, you'll need:
    ```bash
    git clone https://github.com/chandiefae/seo-platform.git
    cd seo-platform
+npm install
