@@ -18,9 +18,4 @@ To run this platform locally, you'll need:
 - PostgreSQL (or any SQL database)  
 - Railway or other deployment platform  
 
-## Installation  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/chandiefae/seo-platform.git
-   cd seo-platform
-npm install
+
