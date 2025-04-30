@@ -1,16 +1,16 @@
-# SEO-Platform
-SEO-Platform by Chandra
-# SEO Local Platform 🚀
+# SEO-Genius made with GPT-Genius
+T&C Appliance/HVAC Repair's SEO-Platform by Chandra Brown
+# SEO Local Platform 
 
 ## About  
 A custom platform designed to help businesses dominate local markets by optimizing SEO, managing reviews, and providing actionable analytics. Built with simplicity, scalability, and usability in mind.  
 
 ## Features  
-- 📈 **Keyword Tracking**: Monitor rankings and discover opportunities for growth.  
-- 🌟 **Review Management**: Aggregate and respond to reviews across multiple platforms.  
-- 🌍 **Local SEO Optimization**: Boost visibility in local search results.  
-- 📊 **Real-Time Analytics**: Get insights on rankings, traffic, and competitor performance.  
-- 🎯 **Ad Campaign Monitoring**: Track local ad campaigns for maximum ROI.  
+-  **Keyword Tracking**: Monitor rankings and discover opportunities for growth.  
+-  **Review Management**: Aggregate and respond to reviews across multiple platforms.  
+-  **Local SEO Optimization**: Boost visibility in local search results.  
+-  **Real-Time Analytics**: Get insights on rankings, traffic, and competitor performance.  
+-  **Ad Campaign Monitoring**: Track local ad campaigns for maximum ROI.  
 
 ## Requirements  
 To run this platform locally, you'll need:  
