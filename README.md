@@ -1,5 +1,5 @@
 # SEO-Genius made with GPT-Genius
-T&C Appliance/HVAC Repair's SEO-Platform by Chandra Brown
+T&C Appliance/HVAC Repair's SEO-Platform and personally Made GPT-Genius By Chandra Brown
 # SEO Local Platform 
 
 ## About  
